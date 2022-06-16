@@ -745,9 +745,10 @@ section.prices {
 }
 
 .contact__separator {
-    border: 1px solid #EC7979;
-    height: 0px;
-    margin: 0px 500px 40px 500px;
+    height: 1px;
+    width: 137px;
+    margin: 20px auto;
+    background-color:rgb(236, 121, 121);
 }
 
 .contact__second-title {
