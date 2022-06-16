@@ -175,9 +175,10 @@
 }
 
 .banner__title__separator {
-    background-color:#fff;
     height: 1px;
-    width: 170px;
+    width: 137px;
+    background-color: #fff;
+    margin-bottom: 50px;
 }
 
 .banner__secondTitle {
@@ -186,7 +187,6 @@
     text-align:start;
     color: #fff;
     font-weight: 400;
-    padding: 15px;
 }
 
 .banner__title__bottom {
@@ -388,9 +388,10 @@ p.tab-content__info--paragraph {
 }
 
 .about_separator {
-    border: 1px solid #EC7979;
-    height: 0px;
-    margin: 0px 500px 40px 500px;
+    height: 1px;
+    width: 137px;
+    margin: 20px auto;
+    background-color: rgb(236, 121, 121);
 }
 
 .about_second-title {
@@ -492,10 +493,10 @@ section.prices {
 }
 
 .separator {
-    border: 1px solid #EC7979;
-    width: 170px;
-    margin-left: 500px;
-    margin-bottom: 40px;
+    height: 1px;
+    width: 137px;
+    margin: 20px auto;
+    background-color: rgb(236, 121, 121);
 }
 
 .list__title {
@@ -581,9 +582,10 @@ section.prices {
 }
 
 .costumers__separator {
-    border: 1px solid #EC7979;
-    height: 0px;
-    margin: 0px 500px 40px 500px;
+    height: 1px;
+    width: 137px;
+    margin: 20px auto;
+    background-color: rgb(236, 121, 121);
 }
 
 .costumers__second-title {
@@ -676,10 +678,10 @@ section.prices {
 }
 
 .stylish__separator {
-    border: 1px solid #fff;
-    height: 0px;
-    margin: 0px 500px 40px 500px;
-    background: rgba(0, 0, 0, 0.5);
+    height: 1px;
+    width: 137px;
+    margin: 20px auto;
+    background-color: #fff;
 }
 
 .stylish__second-title {
